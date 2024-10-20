@@ -1,8 +1,8 @@
 {
-  "name": "18+ Repo (NSFW)",
+  "name": "18+ Repo (NSFW) testing",
   "description": "This Repo Contains The NSFW sources",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Rowdy-Avocado/18plus-Extensions/builds/plugins.json"
+    "https://raw.githubusercontent.com/rockhero1234/18plus-Extensions/refs/heads/builds/plugins.json"
   ]
 }
